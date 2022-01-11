@@ -24,8 +24,8 @@
     "chance": "^1.1.7"
   },
   "devDependencies": {
-    "jest": "^25.2.6",
-    "standard": "^14.3.3"
+    "jest": "25.5.4",
+    "standard": "14.3.4"
   },
   "standard": {
     "globals": [
